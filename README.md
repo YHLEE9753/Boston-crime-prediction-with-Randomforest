@@ -33,17 +33,17 @@ Census data (USA District population data) using QGIS program with official cens
 2. ensemble method = AdaBoost, GradientBoost
 
 # Evaluation
-Decsion Tree accuracy = 0.9298
-RandomForest accuracy = 0.9269
-KNN accuracy = 0.7959
-
-Accuracy of SMOTE in RandomForest = 0.7190
-Accuracy of ADASYN in RandomForest = 0.6742
-
-Accuracy of AdaBoost in RandomForest = 0.9298
-Accuracy of GradientBoost in RandomForest = 0.9298
-
-Best ROC_AUC score is using AdaBoosting = 0.8658
+Decsion Tree accuracy = 0.9298<br>
+RandomForest accuracy = 0.9269<br>
+KNN accuracy = 0.7959<br>
+<br>
+Accuracy of SMOTE in RandomForest = 0.7190<br>
+Accuracy of ADASYN in RandomForest = 0.6742<br>
+<br>
+Accuracy of AdaBoost in RandomForest = 0.9298<br>
+Accuracy of GradientBoost in RandomForest = 0.9298<br>
+<br>
+Best ROC_AUC score is using AdaBoosting = 0.8658<br>
 
 # Conclusion
 1. Our model can predict the likelihood of crime with about 92% accuracy. However, our model is judged to have poor predictive power for crime occurrence(final_count=1).<br>
